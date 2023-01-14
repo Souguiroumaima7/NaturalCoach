@@ -54,6 +54,20 @@ export default {
           description: "Le coup d’envoi du prestigieux Tour de Ski de la saison 2022/23 sera donné dans le Val Müstair.",
           image: "https://static.actu.fr/uploads/2020/12/ski-suisse-960x640.jpg",
           program: "ggggggggg"
+        },
+        {
+          id : "001" , 
+          name : "rondonnée à lac Ichkeul" ,
+          description : "le lac abrite de nombreux oiseaux migrateurs et des oiseaux rares voire éndemiques" ,
+          image :"https://www.tresorsdumonde.fr/post-img.php?url=/wp-content/uploads/2016/10/Lac-Ichkeul3.jpg&autor=aloulou007" ,
+          program: "fffffffff"
+        },
+        {
+          id : "002",
+          name :"djebel boukornine" ,
+          description : "pour ceux qui recherchent un peux de frissons , c'est le parcours ideal" ,
+          image :"https://th.bing.com/th/id/R.b8d60f8d57c83ee54a7e647c4ccd2299?rik=J6tWCBOAX2GYUg&riu=http%3a%2f%2fzaherkammoun.com%2fwp-content%2fuploads%2f2019%2f01%2fDjebel-Boukornine-2.jpg&ehk=cQyUklqQWxfFnSE7tBSCD43KG7AMkdSeqe19vqC4iZ0%3d&risl=&pid=ImgRaw&r=0",
+          programe:"gggggggg"
         }
       ]
     }
